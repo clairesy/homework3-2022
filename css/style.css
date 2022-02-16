@@ -101,7 +101,7 @@ a:focus{
 /* Requirements 6-10 here: */
 .intro {
   background-image: url("../images/header.jpg");
-  background-color:  #858585;
+  background-color:  #707070;
   min-height: 400px;
   background-attachment: fixed;
   background-position: center;
@@ -167,7 +167,6 @@ img{
   }
 
   .container{
-    display: grid;
     grid-template-columns: 50px auto 500px auto 50px;
     grid-template-rows: 300px 300px 300px 300px;
   }
